@@ -8,5 +8,3 @@ Para el desarrollo de este tutorial es importante cumplir con los siguientes req
 * Instalar SQLAlchemy 
  
 Con estos requisitos ya es posible comenzar con el tutorial.
-
-![Diagrama de clase](/images/Class Diagram1.jpg)
